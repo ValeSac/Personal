@@ -1,9 +1,9 @@
 baseURL = ""
 languageCode = "en"
 DefaultContentLanguage = "it"
-title = "Personal Website"
+title = "Valentina Saccucci Personal Website"
 theme = "anatole"
-summarylength = 100
+summarylength = 20
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -24,7 +24,7 @@ author = "Valentina Saccucci"
 #copyright = "2020-2021"
 description = "Personal Website"
 profilePicture = "images/profile1.jpg"
-keywords = ""
+keywords = "Valentina Saccucci" 
 favicon = "fav/"
 # example ["css/custom.css"]
 customCss = []
