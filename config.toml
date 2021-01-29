@@ -24,7 +24,7 @@ author = "Valentina Saccucci"
 #copyright = "2020-2021"
 description = "Personal Website"
 profilePicture = "images/profile1.jpg"
-keywords = "Valentina Saccucci" 
+keywords = ["Valentina Saccucci", "Personal Website", "CV", "Curriculum"]
 favicon = "fav/"
 # example ["css/custom.css"]
 customCss = []
