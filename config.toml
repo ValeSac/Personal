@@ -24,7 +24,7 @@ author = "Valentina Saccucci"
 #copyright = "2020-2021"
 description = "Personal Website"
 profilePicture = "images/profile1.jpg"
-keywords = ["Valentina Saccucci", "Personal Website", "CV", "Curriculum"]
+keywords = "Valentina Saccucci"
 favicon = "fav/"
 # example ["css/custom.css"]
 customCss = []
@@ -82,11 +82,18 @@ url = "https://github.com/ValeSac"
 ## Menu items
 
 #[menu]
-  #[[menu.main]]
-  #name = "About me"
-  #identifier = "home"
-  #weight = 100
-  #url = "/"
+
+  [[menu.main]]
+  name = "IT"
+  weight = 100
+  identifier = "home"
+  url = "/"
+
+  [[menu.main]]
+  name = "EN"
+  weight = 200
+  identifier = "english"
+  url = "/english/"
 
   #[[menu.main]]
   #name = "About Me"
