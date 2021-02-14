@@ -1,7 +1,9 @@
 ---
-title: "English Version"
-description: "Valentina Saccucci, Personal Website. English version."
-layout: "post"
+title: "English"
+draft: true
+Description: "Valentina Saccucci, Personal Website. English version."
+Tags: []
+Categories: []
 ---
 
 {{< english >}}
